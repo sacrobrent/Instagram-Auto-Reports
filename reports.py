@@ -56,7 +56,7 @@ print('''
 
 [Send automatic reports to Instagram]
 
-Coded By : EVAN HAXXXOR
+Coded By : EVAN HAXXXOR''
 
 ________________________________________
 
