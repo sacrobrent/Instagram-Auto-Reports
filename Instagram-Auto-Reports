@@ -29,7 +29,7 @@ print(B+br)
 print('''
 [Send automatic reports to Instagram]
 
-Coded By : EVAN HAXXXOR
+Coded By : EVAN HAXXXOR''
 ________________________________________
 ''')
 print(Y+"Log in to your Instagram account:")
